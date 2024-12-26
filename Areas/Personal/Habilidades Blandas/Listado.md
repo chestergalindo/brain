@@ -1,0 +1,3 @@
+- Comunicacion
+- Manejo del tiempo
+- Trabajo en grupo

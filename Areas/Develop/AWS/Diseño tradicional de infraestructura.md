@@ -1,0 +1,3 @@
+Las grandes empresas de IT empezaron comprando servidores y montándolos en sus garajes. Se encontraron con problemas al tratar de expandir su infraestructura, como los costos de mover estos servidores, comprar nuevos, y más…
+
+[[Areas/Develop/AWS/¿Cómo está compuesto un servidor?|¿Cómo está compuesto un servidor?]]

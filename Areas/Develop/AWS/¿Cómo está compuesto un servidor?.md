@@ -1,0 +1,5 @@
+- **Cómputo/CPU**: Realiza las operaciones que necesitamos.
+- **Memoria RAM**: Contiene la información a procesar mediante la CPU. Es como un cerebro
+- **Almacenamiento**: Archiva datos, a modo de archivos de texto plano.
+- **Bases de datos**: Información almacenada de manera estructurada
+- **Redes**: Cables, routers y servidores conectados unos a otros. Servidores DNS

@@ -1,0 +1,5 @@
+# Formas de uso de la tarjeta de credito
+
+1. Medio de pago: utilizarlo para pagar compras y herramientas de control de las finanzas. Clave: Fechas de corte y pago. Recomendado para convertirla en una herramienta de control de nuestras finanzas personales.
+2. Medio de Financiación: Clave: plazo y costo Es una forma cómoda de disponer de un crédito continuo siempre y cuando seamos responsables. Siempre que compres algo con tarjeta debes pensar que aquello que compras cuanto tiempo de beneficio te esta dando
+3. Medio de protección y descuentos Clave: Beneficios Recomendado para tarjetas con asistencias, programas de lealtad o promociones PAGO Vs. FINANCIACION Fecha de Corte: Dia en que el banco corta los consumos y determina el saldo de un ciclo de compras. Son ciclos de 30 dias y un periodo de gracia. Fecha de pago: Día limite en el que se debe realizar el pago. Si no se paga oportunamente, se generan intereses moratorios y otros cargos
